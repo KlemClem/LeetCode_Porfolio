@@ -1,44 +1,50 @@
-# [PY] Merge 2 arrays into 1 sorted array
-## Approach
+# 🚀 LeetCode Portfolio
 
-**Selection sort algotihm  :**
-1. Set MIN to location 0.
-2. Search the minimum element in the list.
-3. Swap with value at location MIN.
-4. Increment MIN to point to next element.
-5. Repeat until the list is sorted.
+This repository is a collection of my solutions to various LeetCode problems. It showcases my progession to learn Python 3 and my approach to problem-solving, code efficiency, and understanding of different data structures and algorithms.
 
-## Complexity
-    O ( n^2 ) 
+---
 
+## 📚 Table of Contents
 
-## Code
-```python []
-class Solution(object):
-    def merge(self, nums1, m, nums2, n):
-        """
-        :type nums1: List[int]
-        :type m: int
-        :type nums2: List[int]
-        :type n: int
-        :rtype: None Do not return anything, modify nums1 in-place instead.
-        """
-        l = m + n
-        nums1[m:] = nums2
-        print(nums1)
+- [Structure](#structure)
+- [Difficulty Breakdown](#difficulty-breakdown)
+- [How to Use](#how-to-use)
+- [Achievements](#achievements)
 
-        for i in range(l-1):
-            idx_min  = i
-            for j in range(i+1,l):
-                if (nums1[j] < nums1[idx_min] ):
-                    idx_min = j
-            nums1[idx_min], nums1[i] = nums1[i], nums1[idx_min]
+---
 
+## 📝 About
 
+This repository serves as a curated collection of my LeetCode solutions, aiming to demonstrate my skills in **algorithm design** and **optimization**. Each solution includes detailed explanations and comments to outline the thought process and trade-offs considered.
 
+## 🗂 Structure
 
+The solutions are organized by problems:
+1. **main.py** - Runable directly in any IDE with python interpreter
+2. **solution** - Details of the approach used to solve the problem
+*maybe i'll organise my repo by topics then difficulties*
+Each solution file includes:
+- **Problem description**
+- **Approach and complexity analysis**
+- **Code implementation**
 
+---
 
-    
+## 🔥 Difficulty Breakdown
 
-```
+| Difficulty | Number of Problems |
+|------------|--------------------|
+| Easy       | 11                |
+| Medium     | XX                |
+| Hard       | XX                |
+
+---
+## 📬 Contact 
+ - Linkedin : www.linkedin.com/in/clement-kervennic
+   
+## 🛠 How to Use
+
+1. **Clone** this repository:
+   ```bash
+   git clone https://github.com/yourusername/leetcode-portfolio.git
+   cd leetcode-portfolio
