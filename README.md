@@ -8,8 +8,8 @@ This repository is a collection of my solutions to various LeetCode problems. It
 
 - [Structure](#structure)
 - [Difficulty Breakdown](#difficulty-breakdown)
+- [Contact](#contact)
 - [How to Use](#how-to-use)
-- [Achievements](#achievements)
 
 ---
 
