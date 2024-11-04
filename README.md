@@ -35,9 +35,9 @@ Each solution file includes:
 
 | Difficulty | Number of Problems |
 |------------|--------------------|
-| Easy       | 11                |
-| Medium     | XX                |
-| Hard       | XX                |
+| Easy       | {{easy_count}}     |
+| Medium     | {{medium_count}}   |
+| Hard       | {{hard_count}}     |
 
 ---
 
