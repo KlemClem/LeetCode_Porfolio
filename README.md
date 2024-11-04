@@ -10,6 +10,7 @@ This repository is a collection of my solutions to various LeetCode problems. It
 - [Difficulty Breakdown](#difficulty-breakdown)
 - [Contact](#contact)
 - [How to Use](#how-to-use)
+- [LeetCode Topics](#leetcode-topics)
 
 ---
 
@@ -39,15 +40,6 @@ Each solution file includes:
 | Hard       | XX                |
 
 ---
-## 📬 Contact 
- - Linkedin : www.linkedin.com/in/clement-kervennic
-   
-## 🛠 How to Use
-
-1. **Clone** this repository:
-   ```bash
-   git clone https://github.com/yourusername/leetcode-portfolio.git
-   cd leetcode-portfolio
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -60,3 +52,16 @@ Each solution file includes:
 | ------- |
 | [0035-search-insert-position](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
+
+---
+
+## 📬 Contact 
+ - Linkedin : www.linkedin.com/in/clement-kervennic
+   
+## 🛠 How to Use
+
+ **Clone** this repository:
+   ```bash
+   git clone https://github.com/yourusername/leetcode-portfolio.git
+   cd leetcode-portfolio
+
