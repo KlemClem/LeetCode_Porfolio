@@ -48,3 +48,15 @@ Each solution file includes:
    ```bash
    git clone https://github.com/yourusername/leetcode-portfolio.git
    cd leetcode-portfolio
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics End-->
