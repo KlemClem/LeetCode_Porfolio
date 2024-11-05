@@ -51,6 +51,18 @@ Each solution file includes:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
 
 ---
