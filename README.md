@@ -51,6 +51,7 @@ Each solution file includes:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Each solution file includes:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
