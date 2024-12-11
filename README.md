@@ -46,6 +46,7 @@ Each solution file includes:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ Each solution file includes:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
