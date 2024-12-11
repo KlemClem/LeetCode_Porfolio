@@ -65,6 +65,11 @@ Each solution file includes:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
 
 ---
