@@ -69,6 +69,7 @@ Each solution file includes:
 | [0066-plus-one](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,14 @@ Each solution file includes:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KlemClem/LeetCode_Porfolio/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
 
 ---
